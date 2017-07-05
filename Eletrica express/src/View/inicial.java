@@ -104,7 +104,7 @@ public class inicial extends JFrame {
 			"C:\\Users\\Desktop\\Desktop\\workspace\\Cer - seguran\u00E7a eletronica\\cart.png");
 	private static JTable tablePedidos = new JTable();
 	/**
-	 * Launch the application.tt
+	 * Launch the application.
 	 */
 	public static void main(String[] args) {
 		try {
